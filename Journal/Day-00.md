@@ -17,7 +17,34 @@
 - A clean project structure makes development easier.
 - VS Code can be customized with extensions to improve productivity.
 
-## Tomorrow (Day 1)
-- Arrays
-- Python Basics
-- SQL Basics
+## Starting Assessment
+
+### DSA
+- Solved 82 LeetCode problems
+- Difficulty:
+  - Easy: 21
+  - Medium: 50
+  - Hard: 11
+- Completed:
+  - Arrays
+  - Hashing
+  - Two Pointers
+  - Sliding Window
+  - Binary Search
+- Currently learning:
+  - Stack
+
+### SQL
+- Comfortable with:
+  - Joins
+  - Group By
+  - HAVING
+  - Window Functions
+  - CTEs
+  - Subqueries
+- Goal: Revision and interview practice
+
+### Python
+- Comfortable using Python for DSA
+- Need to learn software engineering concepts
+
