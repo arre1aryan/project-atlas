@@ -3,13 +3,13 @@
 ## DSA
 
 Solved:
-- LC 61
-- LC 86
-- LC 143
-- LC 287
-- LC 138
-- LC 146
-- LC 430
+- LC 61 — Rotate List
+- LC 86 — Partition List
+- LC 143 — Reorder List
+- LC 287 — Find the Duplicate Number
+- LC 138 — Copy List with Random Pointer
+- LC 146 — LRU Cache
+- LC 430 — Flatten a Multilevel Doubly Linked List
 
 Concepts Revised
 
