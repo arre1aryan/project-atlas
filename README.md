@@ -24,4 +24,6 @@
 - ⏳ Pending
 
 ### ML
-- ⏳ Pending
+- Classification metrics
+- Cross Validation
+- Bias-Variance Tradeoff
