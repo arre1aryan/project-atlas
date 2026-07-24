@@ -4,13 +4,13 @@
 
 ## DSA
 ### Trees
-- Tree Fundamentals
-- 104. Maximum Depth of Binary Tree
-- 100. Same Tree
-- 226. Invert Binary Tree
-- 543. Diameter of Binary Tree
-- 110. Balanced Binary Tree
-- 111. Minimum Depth of Binary Tree
+Tree Fundamentals
+- LC 104 Maximum Depth of Binary Tree
+- LC 100 Same Tree
+- LC 226 Invert Binary Tree
+- LC 543 Diameter of Binary Tree
+- LC 110 Balanced Binary Tree
+- LC 111 Minimum Depth of Binary Tree
 
 ### Key Learnings
 - Recursive DFS traversal
@@ -25,11 +25,11 @@
 ## SQL
 
 Solved:
-- 586
-- 596
-- 1193
-- 1141
-- 1327
+- LC 586 - Customers placing the largest number of orders
+- LC 596 - Classes with atleast 5 students
+- LC 1193 - Monthly Transactions 1
+- LC 1141 - User Activity for the past 30 days 1
+- LC 1327 - List the products ordered in a period
 
 Topics Revised:
 - Basic SQL queries
