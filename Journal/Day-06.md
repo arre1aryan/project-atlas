@@ -30,5 +30,3 @@ Solved the following LeetCode problems:
 - Strengthened recursive tree manipulation techniques
 
 ---
-
-**Total Focus:** DSA (Trees)
