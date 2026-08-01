@@ -1,4 +1,4 @@
-# Atlas — Day 9
+# Atlas — Day 10
 **Date:** 01 August 2026
 
 ## 🟢 Heaps
