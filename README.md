@@ -12,6 +12,8 @@
 - ✅ Binary Search
 - ✅ Stacks
 - ✅ Linked Lists
+- ✅ Trees
+- ✅ Heaps and Priority Queue
 
 ### SQL
 - ✅ Basic Queries
