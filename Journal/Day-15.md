@@ -34,9 +34,13 @@
 | # | Problem | Core Pattern |
 
 | 778 | Swim in Rising Water | BFS / Binary Search + Graph |
+
 | 752 | Open the Lock | BFS / State-Space Search |
+
 | 127 | Word Ladder | BFS / Implicit Graph |
+
 | 815 | Bus Routes | BFS / Graph Modeling |
+
 
 
 ---
