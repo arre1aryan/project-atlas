@@ -14,6 +14,7 @@
 - ✅ Linked Lists
 - ✅ Trees
 - ✅ Heaps and Priority Queue
+- ✅ Graphs
 
 ### SQL
 - ✅ Basic Queries
